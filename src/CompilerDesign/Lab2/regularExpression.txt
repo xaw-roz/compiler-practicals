@@ -1,0 +1,1 @@
+(b*ab*ab*),((a|b)(a|b))*,(a|b)*(aab|baa)(a|b)*,(a*ba*ba*b)+

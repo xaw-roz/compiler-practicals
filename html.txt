@@ -1,0 +1,1263 @@
+<table class="student_info" border="0" width="100%">
+<tbody>
+<tr>
+<td rowspan="10" valign="top" width="21%">
+
+<a href="http://doko.dwit.edu.np/wp-content/uploads/2016/12/610_Albin Lamichhane.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/610_Albin Lamichhane.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Albin Lamichhane</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">St . xaviers</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I want to be the best programmer</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Music and writing songs, stories</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Steve jobs</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">first one would be viber second one is twitter and play store</td>
+</tr>
+</tbody>
+</table>
+637_Riwaj Chalise.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/637_Riwaj Chalise.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Riwaj Chalise</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Prasadi Academy</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I am a believer of "live in the present moment", so lets see.... </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">NO.1)Watching awesome movies and listening awesome songs
+NO.2) Redo no. 1</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">`All the CRAZY people on earth.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">'Play Store' (Enough)</td>
+</tr>
+</tbody>
+</table>
+635_Pranjal Pandey.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/635_Pranjal Pandey.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Pranjal Pandey</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Uniglobe higher secondary school</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">wants to be a java developer or mobile application developer.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">watching football, travelling, watching  sifi movies, coding and playing video games.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My father, mother and grandparents.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">internet browser, music and phone(contact list)</td>
+</tr>
+</tbody>
+</table>
+614_Avina Nakarmi .jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/614_Avina Nakarmi .jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Avina Nakarmi </td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">St Mary's School </td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I would like to gain success in the field I persue in the 4 years.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I am keen to learn anything new to me and my hobby is to listen to music.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Steve Jobs and Stephen Hawkings</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Safari, hotmail and skype</td>
+</tr>
+</tbody>
+</table>
+608_Ajay Banstola.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/608_Ajay Banstola.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Ajay Banstola</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Pentagon international college</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">Not after, but I want to accomplish my short term plans during the years in dwit and then after that will be my long term plans like working in dwit or being an entrepreneur or finishing my masters or working abroad that solely depends upon the future consequences. Working for the betterment of human mankind is there, separately.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Interests in literally everything that is hard to learn and is productive to learn. Hobbies depends on my mood.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Education: Albert Einstein Motivation: Elliot hulse Consistency: Casey neistat  knowledge: Brain Man Fitness: Jackie chan. Well the list goes on and on.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">well it can fluctuate but in the dwit years those 3 would be: 1. Chrome 2. Gmail 3. Camera</td>
+</tr>
+</tbody>
+</table>
+601_Aadesh Dhakal.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/601_Aadesh Dhakal.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Aadesh Dhakal</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Capital College And Research Centre</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I want to be a computer programmer </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">My hobbies are reading novels and playing computer games. My interest usually involves football.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Leonardo da Vinci</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Music player, youtube and gmail.</td>
+</tr>
+</tbody>
+</table>
+634_Pallavi Ghimire.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/634_Pallavi Ghimire.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Pallavi Ghimire</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Delhi Public School, Biratnagar</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I'd like to use the skills I get from DWIT to start something of my own.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I like to sing, read fictional stories, sketch and watch movies.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">I've not idolized anybody yet.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Playstore app, Google chrome app and YouTube app.</td>
+</tr>
+</tbody>
+</table>
+629_Moon Shrestha .jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/629_Moon Shrestha .jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Moon Shrestha </td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">United Academy </td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT I want to accomplish confidence, determination and success of course. </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Photography, dancing and eating are my interests and my hobbies are reading books, surfing Internet, etc </span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My sister </td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">YouTube, Google Maps, Viber</td>
+</tr>
+</tbody>
+</table>
+611_Alisha Jabegu.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/611_Alisha Jabegu.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Alisha Jabegu</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">National School of Science (NIST)</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT i will complete my masters and do my future planning career in this IT field.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">i am interested in visiting new places,playing instrument,playing games and my hobbies are to read novels,swimming.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left"> My mom and dad, i idolize them a most as they have always been supporting me in my every stage of my life.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">messenger,gmail,legacy  </td>
+</tr>
+</tbody>
+</table>
+631_Nischal Badal.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/631_Nischal Badal.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Nischal Badal</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">DAV College</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT i want to be a successful java developer that meets the standards of big companies in Nepal. And i want to make my parents proud about it as DWIT stands beside my success.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Well i have interests on learning new and interesting things that may be books or any kinda other stuffs. And my hobbies are reading novels, sports, riding bikes and music.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Its not the most and least, i do idolize every successful person in this field. Talking about one he was Steve Jobs as my greatest source of inspiration.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Well the three apps would be a browser, viber and another one would be an ebook reader.</td>
+</tr>
+</tbody>
+</table>
+639_Sagar Shrestha.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/639_Sagar Shrestha.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Sagar Shrestha</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Little Angels' College</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">DWIT has taught me a lot though  I want to go for abroad study so that from there I could gain more quality education, about their lifestyles, the way they think and what they do for being success . After returning from abroad  I want to have my own software company in my motherland and have its branch on different developed countries.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;"> Body building, creating applications, playing computer games, learning new things, listening music and many more.. </span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Warren Buffet, Ben Pasternak, Lazar Angelov</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Dialer,Youtube,Music player</td>
+</tr>
+</tbody>
+</table>
+604_Aashish k.c..jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/604_Aashish k.c..jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Aashish k.c.</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Trinity international collage</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I want to gain all the training and skill offered by DWIT with i this 4 years i want to be a good programmer with a good moral character.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I am interested in playing basketball, football and hiking </span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My idol is no other than my dad because he has done so much that i cant pay him back with either money nor love . I thank him for what i am today and i will make him proud in the future .</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">i would keep Safari , Viber and app store</td>
+</tr>
+</tbody>
+</table>
+612_Alon Shrestha.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/612_Alon Shrestha.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Alon Shrestha</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Bishnu Memorial Higher Secondary School</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">No idea for now but..thinking about programmer.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Play guitar, game ,singing , listing to music ,mostly eat and sleep.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My parents.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">1.Official Browser (google chrome) 2.phone call 3.Mobile apps store .</td>
+</tr>
+</tbody>
+</table>
+636_Rishitosh Acharya.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/636_Rishitosh Acharya.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Rishitosh Acharya</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Arniko HSS</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I want to be perfect in coding so that i can accomplish what i want to built. Also i want to gain all the knowledge about the marketing world of IT. 
+I want to develop myself as one of the best developer. and become an Entrepreneur.
+</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">My interest are in technologies and world politics. </span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My idol Elliote because i got interested in CS because of him. And my parents because they are also an entrepreneur. They started from the bottom now they are at the top so they motivate me. </td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Youtube Podcast Googledrive</td>
+</tr>
+</tbody>
+</table>
+624_Isha Shrestha .jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/624_Isha Shrestha .jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Isha Shrestha </td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Prasadi Academy H.S.S</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT I want to be successful, though I haven't realized till now what  I want to do but after this four year I want to know myself and my capability. </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I am interested in everything to what I can do to what I can't and I am more over music. I often play instrument ie guitar also I love spending my leasure time playing video games.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My father have been always my idol. Honesty, patience , kindness he've got that all and that is what i've always learned from him.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Google drive, musical.ly, Ustream</td>
+</tr>
+</tbody>
+</table>
+648_Tejas Pant.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/648_Tejas Pant.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Tejas Pant</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">KMC</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">DWIT is the place where my future is decided. Obviously i want to be successful at whatever i do but unfortunately that whatever is still not decided. I want to reach to the peak of success and i'm pretty sure i'm more than capable for it.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">My interests and hobbies are not particular. They change with time. Music is the only thing that is permanent but currently i'm interested in super sports bike as me myself have bought one.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">MY PARENTS. DAD AND MOM.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">I would only keep one that is a browser (google chrome) as every other thing is accessible from it :D</td>
+</tr>
+</tbody>
+</table>
+616_Bandana Aryal.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/616_Bandana Aryal.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Bandana Aryal</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Trinity International College </td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I want to become a software developer after graduatiog from DWIT</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Reading Novels,exploring nature</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My father </td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Merriam webster dictionary, messenger , shareit</td>
+</tr>
+</tbody>
+</table>
+640_Seema Tamang.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/640_Seema Tamang.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Seema Tamang</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Trinity International college</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">I want to have good knowledge about IT and the technology.I would like to have a good career ahead in the field of IT</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Travelling,singing,writing etc</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My parents</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Instagram,viber and vlc</td>
+</tr>
+</tbody>
+</table>
+628_Maunta Rani Gautam .jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/628_Maunta Rani Gautam .jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Maunta Rani Gautam </td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Trinity International College </td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">4 years from now I see myself as an   confident ,independent  Enterpreneur who aims to connect the world holding the hands of technology </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I spare my time listening to music of my intrest. Being a nature lover I also love  to travel and writing poems fancies me more than anything</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">I idolize iisuperwomanii. She is a youtuber who has inspired me be independent , do things that facinates you and most of all she has taught me to love yourself which is the most beautiful thing one can ever do ! </td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Instagram  UC browser Wattpad </td>
+</tr>
+</tbody>
+</table>
+645_Sudarshan Dhakal.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/645_Sudarshan Dhakal.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Sudarshan Dhakal</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Uniglobe HSS/College</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">Senior software developer</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Playing football, watching Premiere league, listening music and being tourist are my hobbies.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">none</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Mini Militia, Viber and Xender</td>
+</tr>
+</tbody>
+</table>
+626_kishor shrestha.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/626_kishor shrestha.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">kishor shrestha</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">xavier international college</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">to become successful person. </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">hiking</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">none</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">busy box,linux deploy and kingoroot</td>
+</tr>
+</tbody>
+</table>
+645_Sudarshan Dhakal.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/645_Sudarshan Dhakal.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Sudarshan Dhakal</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Uniglobe HSS/College</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">Senior software developer.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Playing football, watching Premiere League, playing Fifa, listening music and playing basketball.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Donald Trump because he proved that the spirit of doing something you like is more stronger than experience.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Mini Militia, Fantasy Premiere League, Viber</td>
+</tr>
+</tbody>
+</table>
+620_Bishesh Amatya.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/620_Bishesh Amatya.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Bishesh Amatya</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">United Academy</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">Dont wanna be lazy anymore.
+Up for anything.
+IT expert.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Eat sleep travel repeat.
+Play games.
+Listen music.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">None.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Facebook, youtube, google chrome.</td>
+</tr>
+</tbody>
+</table>
+627_Mandip Prasai.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/627_Mandip Prasai.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Mandip Prasai</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">National School of Sciences (NIST),Lainchour</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT i want to start my own successful entrepreneurial journey in the field of Computer Science and Information Technology.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I love travelling, shopping, listening to music ,exploring world and helping penurious peoples.Apart from this, i am interested in writing articles about the current social affairs.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Steven Paul Jobs for his dedication in bringing a drastic change in digital technology. Though i am not too religious,i too idolize divine hero, supreme being and great politician of the era Lord Shree Krishna the most. There is  a message of Lord Krishna in Bhagwat Geeta that is ,"It is better to live your own  destiny imperfectly than to live an intimation of somebody else life with perfection".</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+603_Aamod Paudel.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/603_Aamod Paudel.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Aamod Paudel</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Trinity Int'l College</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">Start up a company and develop softwares</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Interested in Football, playing video games, adventure and wildlife</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My Father and...Lionel Messi ! </td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Fifa, Messenger, Youtube</td>
+</tr>
+</tbody>
+</table>
+627_Mandip Prasai.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/627_Mandip Prasai.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Mandip Prasai</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">National School of Sciences (NIST),Lainchour</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT i want to start my own successful entrepreneurial journey in the field of Computer Science and Information Technology.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">I love travelling, shopping, listening to music ,exploring world and helping penurious peoples.Apart from this, i am interested in writing articles about the current social affairs.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Steven Paul Jobs for his dedication in bringing a drastic change in digital technology. Though i am not too religious,i too idolize divine hero, supreme being and great politician of the era Lord Shree Krishna the most. There is  a message of Lord Krishna in Bhagwat Geeta that is ,"It is better to live your own  destiny imperfectly than to live an intimation of somebody else life with perfection".</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">safari, music and camera</td>
+</tr>
+</tbody>
+</table>
+621_Bishesh Katwal.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/621_Bishesh Katwal.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Bishesh Katwal</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Himalayan White House H.S.School</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT, I want to be good and professional enough to work in multinational software companies and later start my own business. </td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Listening music, travelling, watching youtube videos and animes.</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My father</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Youtube, Traffic rider, Instagram</td>
+</tr>
+</tbody>
+</table>
+643_Shreya Sapkota.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/643_Shreya Sapkota.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Shreya Sapkota</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Budhanilkantha School</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">A good and successful career</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Dancing, reading novels, watching series</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My parents</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Google, instagram, youtube</td>
+</tr>
+</tbody>
+</table>
+615_Avinay Basnet.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/615_Avinay Basnet.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Avinay Basnet</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">The Times Int'l College</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT, I want to work as a java programmer. I want to work with team which accepts new challenge. I want to live my life with passion, live my life with some pride.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Playing football, watching science and fiction movie, listening music, travelling</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My brother</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Browser(Edge,Firefox), Skype, Spotify</td>
+</tr>
+</tbody>
+</table>
+613_Anuska Shrestha.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/613_Anuska Shrestha.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Anuska Shrestha</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">kmc</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">After graduating from DWIT i want to be web designer.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">i love travelling new places 
+Making new friends
+going to concerts
+And tasting new delicious foods</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">i idolize my mother the most because since my childhood i have seen her suffering from good times to bad times or vice versa with a smile on her face.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">It would be youtube, google, facebook</td>
+</tr>
+</tbody>
+</table>
+622_Brikshya Dhungana.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/622_Brikshya Dhungana.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Brikshya Dhungana</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">United Academy</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">To become a good web designer.</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Travelling and rapping</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">My parents.</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Browser, Youtube and hamro patro</td>
+</tr>
+</tbody>
+</table>
+646_Sunita kunwae.jpg" rel="attachment wp-att-9757"><img src="http://doko.dwit.edu.np/wp-content/uploads/2016/12/646_Sunita kunwae.jpg" alt="DSC00193" width="150" height="150" class="alignnone size-thumbnail wp-image-9757" /></a>
+</td>
+<td align="left"><strong>Name</strong></td>
+</tr>
+<tr>
+<td align="left" width="79%">Sunita kunwae</td>
+</tr>
+<tr>
+<td align="left"><strong>High School</strong></td>
+</tr>
+<tr>
+<td align="left">Kathmandu model college</td>
+</tr>
+<tr>
+<td align="left"><strong>Wants to accomplish after completing the course</strong></td>
+</tr>
+<tr>
+<td align="left">To complete my study</td>
+</tr>
+<tr>
+<td align="left"><strong>Interests / hobbies</strong></td>
+</tr>
+<tr>
+<td align="left"><span style="line-height: 19px;">Sleeping talking travelling</span></td>
+</tr>
+<tr>
+<td align="left"><strong>Idolizes</strong></td>
+</tr>
+<tr>
+<td align="left">Mother</td>
+</tr>
+<tr>
+<td align="left"><strong>3 most important Apps</strong></td>
+</tr>
+<tr>
+<td align="left">Viber ,facebook, clash of clans</td>
+</tr>
+</tbody>
+</tabl
